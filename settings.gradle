@@ -1,0 +1,2 @@
+rootProject.name='Pothole Detective'
+include ':app'

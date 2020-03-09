@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pothole Detective</string>
+
+    <string name="button_start_detection">Start pothole detection</string>
+    <string name="button_stop_detection">Stop pothole detection</string>
+
+    <string name="notification_channel_detection_name">Pothole detection</string>
+    <string name="notification_channel_detection_description">
+        Shows an ongoing notification while pothole detection is active.
+    </string>
+
+    <string name="notification_detection_title">Pothole detection</string>
+    <string name="notification_detection_text">Detecting potholes in the road</string>
+
+    <string name="no_detection_location_permission_unavailable">
+        Cannot start detection, location permissions not granted
+    </string>
+    <string name="no_location_permission_unavailable">
+        Cannot show current location, permission not granted
+    </string>
+
+    <string name="detection_started">Pothole detection started</string>
+    <string name="detection_stopped">Pothole detection stopped</string>
+</resources>
